@@ -7,5 +7,5 @@ Created on Sun Oct 23 15:30:29 2022
 """
 
 print()
-print("Hello world!")
+print("Hallo Welt!")
 print()
